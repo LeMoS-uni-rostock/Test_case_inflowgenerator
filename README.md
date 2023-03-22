@@ -1,0 +1,2 @@
+# Test_case_inflowgenerator
+Solver rhoReactingBuoyantFoam
